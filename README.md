@@ -74,6 +74,9 @@ Each adapter should extend common Adapter class and define abstract methods. The
 
 final class Memcached extends \xconn\Adapter {
 
+    /* memcached compare-and-save token */
+    public $cas_token;
+    
     /* @return Instance|bool */
     protected function openConnection($config) {
     
