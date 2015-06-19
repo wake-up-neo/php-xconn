@@ -1,4 +1,4 @@
-php Cross Connector / xconn
+php-xconn (Cross Connector)
 ============
 Simply handles multiple connections across multiple user adapters.
 
