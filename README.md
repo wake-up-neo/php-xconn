@@ -1,6 +1,6 @@
 php Cross Connector / xconn
 ============
-Simply handles multiple connections accross multiple user adapters.
+Simply handles multiple connections across multiple user adapters.
 
 Features
 ----------
